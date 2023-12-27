@@ -232,7 +232,7 @@ button.active{
     .content{
         height: 100%;
         width: 100%;
-        padding: 2rem 4rem 2rem 0px;
+        padding: 4rem 4rem 4rem 0px;
         display: grid;
 
     }
