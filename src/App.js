@@ -17,8 +17,8 @@ function App() {
       <div className='wrapper'>
       
         <div className="hero">
-          <img className='desktop' src={desktop}></img>
-          <img className='mobile' src={mobile}></img>
+          <img className='desktop' alt="Woman facing the monitor" src={desktop}></img>
+          <img className='mobile' alt="Woman facing the monitor" src={mobile}></img>
         </div>
         <div className="box-hero">a</div>
         <div className='content'>
